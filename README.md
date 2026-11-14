@@ -257,9 +257,6 @@ I'm interested in meaningful engineering challenges, software architecture, tech
 
 <sub>🔥 BUILT WITH PASSION · POWERED BY CODE · ALWAYS BUILDING 🔥</sub>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:123E67,100:7047A3&height=120&section=footer" />
 
 </div>
 
