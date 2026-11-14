@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:050816,30:101B3D,65:0078D4,100:7B2FF7&text=POLYTE&fontColor=FFFFFF&fontSize=90&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20CLOUD%20%7C%20INNOVATION&descSize=15&descAlignY=60" width="100%" />
+  <img src="[https://capsule-render.vercel.app/api?type=venom&height=320&color=0:050816,30:101B3D,65:0078D4,100:7B2FF7&text=POLYTE&fontColor=FFFFFF&fontSize=90&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20CLOUD%20%7C%20INNOVATION&descSize=15&descAlignY=60](https://images.openai.com/static-rsc-4/KgTs5cqEWieYXOZj7OCJBVhkni93B7Hoa2mZdfHA8nileD22scXXDa1eX2YRraN0Qw5cmtf4GHwZRKHw_yaK6suIWLqrXtsz7eGJWy7jjO6iEMLWbqiI6XBc0UmJzXdE-40S7sddctpUHdMaw3yhiDTqPMwoyvyyyIXEUNvmUbtcY51Kn6KwzKcq66NvWdSq?purpose=fullsize)" width="100%" />
 </p>
 
 <p align="center">
