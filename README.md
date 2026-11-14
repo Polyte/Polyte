@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/Polyte">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:071A2F,45:123E67,100:7047A3&text=POLYTE&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Technical%20Lead%20%7C%20Builder&descAlignY=58&descSize=17&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:071A2F,45:123E67,100:7047A3&text=callM3-Polyt&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Technical%20Lead%20%7C%20Builder&descAlignY=58&descSize=17&animation=fadeIn" />
 </a>
 
 ### Engineering ideas into software that makes a difference.
