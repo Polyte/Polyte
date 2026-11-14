@@ -1,65 +1,72 @@
-# 👨‍💻 POLYTE | SOFTWARE ENGINEER
+# ⚡ POLYTE — Engineering Beyond Boundaries
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0078D4,100:00D4FF&height=230&section=header&text=POLYTE&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Ideas%20Into%20Reality&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050816,30:0B1F45,65:0078D4,100:7B2FF7&text=POLYTE&fontColor=FFFFFF&fontSize=85&fontAlignY=45&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20INNOVATION%20%7C%20TECHNOLOGY&descSize=15&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Senior+Software+Developer;Full-Stack+Software+Engineer;Microsoft+.NET+%7C+C%23+Developer;React+%7C+Angular+%7C+Flutter+Engineer;AI+%26+Automation+Enthusiast;Cloud+%26+Cybersecurity+Enthusiast;Technical+Lead+%7C+Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Senior+Software+Developer+%F0%9F%92%BB;Full-Stack+Engineer+%E2%9A%A1;Technical+Lead+%7C+Solution+Architect;Building+Intelligent+Software+Systems;AI+%7C+Cloud+%7C+Automation+%7C+Security;Turning+Complex+Problems+Into+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Speciality-Full%20Stack-6A5ACD?style=for-the-badge&logo=stackshare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passion-Innovation-00C9A7?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Polyte">
+    <img src="https://img.shields.io/badge/GitHub-Polyte-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-South%20Africa-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Polyte&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <b>ARCHITECTURE</b> ◈ <b>ENGINEERING</b> ◈ <b>INNOVATION</b> ◈ <b>EXECUTION</b>
 </p>
 
 ---
 
-## 👋 About Me
+## ◈ 01 — Engineering Identity
 
-I'm a software developer and technical lead passionate about building intelligent, scalable and innovative software solutions.
-
-I work across the entire software development lifecycle, from system architecture and backend engineering to frontend development, mobile applications, cloud infrastructure, automation and deployment.
-
-```javascript
-const polyte = {
-    role: "Senior Software Developer & Technical Lead",
+```typescript
+const developer = {
+    name: "Polyte",
+    title: "Senior Software Developer & Technical Lead",
     location: "South Africa 🇿🇦",
 
-    expertise: [
+    specializations: [
+        "Enterprise Software Engineering",
         "Full-Stack Development",
-        "Enterprise Software Architecture",
-        "API Development & Integration",
-        "Mobile Application Development",
+        "Solution Architecture",
         "AI & Intelligent Automation",
-        "Cloud Infrastructure",
+        "Cloud Engineering",
         "Cybersecurity"
     ],
 
-    technologies: {
+    engineering: {
         backend: [".NET", "C#", "Node.js", "PHP"],
-        frontend: ["React", "Angular", "Svelte", "JavaScript", "TypeScript"],
+        frontend: ["React", "Angular", "Svelte", "TypeScript"],
         mobile: ["Flutter", "Dart"],
         databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-        cloud: ["Azure", "AWS", "Cloudflare"],
-        devops: ["Docker", "Git", "Linux", "CI/CD"]
+        infrastructure: ["Azure", "AWS", "Docker", "Linux"]
     },
 
-    mindset: "Build. Innovate. Automate. Improve."
+    mission: "Engineering technology that solves real problems.",
+
+    mindset: ["Think", "Design", "Build", "Automate", "Scale"]
 };
 ```
 
-- 🚀 Developing modern enterprise applications and SaaS platforms.
-- 🧠 Exploring AI, automation and intelligent software systems.
-- ☁️ Building cloud-based infrastructure and integrations.
-- 🔐 Implementing secure and reliable software solutions.
-- 📱 Creating cross-platform mobile and web applications.
-- 👨‍💻 Leading teams, mentoring developers and solving complex problems.
+I'm a software engineer passionate about designing and building technology that makes a meaningful difference.
+
+My work spans the complete engineering lifecycle — from translating business requirements into technical architecture to developing enterprise applications, integrating APIs, managing infrastructure and delivering production-ready solutions.
+
+**What drives me:**
+- Engineering reliable, scalable and maintainable systems.
+- Solving complex business and technical challenges.
+- Building intelligent applications using AI and automation.
+- Exploring emerging technologies and innovative architectures.
+- Leading engineering teams and sharing technical knowledge.
 
 ---
 
-## ⚡ Technology Arsenal
+## ◈ 02 — Technology Universe
 
 ### Programming Languages
 
@@ -67,31 +74,37 @@ const polyte = {
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,python,dart&theme=dark" />
 </p>
 
-### Frontend Development
+### Frontend Engineering
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,svelte,html,css,tailwind,bootstrap&theme=dark" />
 </p>
 
-### Mobile Development
+### Backend & Application Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,laravel,firebase&theme=dark" />
+</p>
+
+### Mobile Engineering
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
 </p>
 
-### Backend & Databases
+### Database & Data Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,mysql,mongodb,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
 </p>
 
-### Cloud & DevOps
+### Cloud, Infrastructure & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,github,cloudflare,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,cloudflare,nginx,git,github&theme=dark" />
 </p>
 
-### Tools & Platforms
+### Engineering Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,bash,powershell&theme=dark" />
@@ -99,93 +112,156 @@ const polyte = {
 
 ---
 
-## 🔥 What I Build
+## ◈ 03 — Engineering Capabilities
 
-| Domain | Engineering Focus |
-|---|---|
-| 🌐 Web Applications | Scalable and responsive digital platforms |
-| ⚙️ Backend Engineering | REST APIs, microservices and integrations |
-| 📱 Mobile Engineering | Android and iOS applications |
-| 🤖 AI & Automation | Intelligent workflows and AI-powered systems |
-| ☁️ Cloud Engineering | Cloud infrastructure and deployment |
-| 🔐 Cybersecurity | Vulnerability analysis and application security |
-| 🏢 Enterprise Systems | Business automation and integrated solutions |
-| 📊 Data & Analytics | Reporting, dashboards and data processing |
-
----
-
-## 🚀 Current Interests
-
-- Artificial Intelligence & AI Agents
-- Advanced .NET and Clean Architecture
-- Modern Frontend Engineering
-- Cloud-Native Applications
-- DevOps & CI/CD
-- FinTech & Identity Verification
-- Intelligent Business Automation
-- Scalable SaaS Architecture
+| Discipline | Engineering Focus |
+|:--|:--|
+| 🏗️ Architecture | Clean Architecture, SOLID, system design |
+| ⚙️ Backend | .NET, C#, APIs, microservices |
+| 🎨 Frontend | React, Angular, Svelte, modern UI |
+| 📱 Mobile | Flutter, Android, cross-platform |
+| 🧠 Artificial Intelligence | AI integration, agents, automation |
+| ☁️ Cloud | Azure, AWS, infrastructure management |
+| 🔐 Security | Vulnerability analysis, secure development |
+| 🗄️ Data | Relational databases, NoSQL, reporting |
+| 🚀 DevOps | CI/CD, Docker, deployment automation |
+| 👥 Leadership | Technical strategy, mentoring, code reviews |
 
 ---
 
-## 📊 GitHub Performance
+## ◈ 04 — Featured Engineering Projects
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Polyte&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=6A5ACD&text_color=FFFFFF" />
+  <i>Selected engineering work and technology explorations.</i>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 seeID
+**Identity Verification & Fraud Intelligence**
+
+Identity verification and document intelligence platform exploring AI-assisted verification and fraud detection.
+
+`Svelte` `TypeScript` `Drizzle ORM` `AI` `Cloud`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 SMSPegasus
+**Bulk Messaging & Communication Platform**
+
+Scalable messaging platform architecture covering campaigns, wallet management, integrations, delivery tracking and APIs.
+
+`SvelteKit` `PostgreSQL` `Redis` `BullMQ`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 CIPC Partners
+**Company Registration & Business Services**
+
+Digital business registration workflow for South African entrepreneurs, incorporating client onboarding and registration processing.
+
+`Web Development` `Automation` `APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Enterprise Solutions
+**Business Systems & Software Engineering**
+
+Enterprise application development, system integrations, backend services, dashboards and business process automation.
+
+`.NET` `C#` `React` `Angular` `SQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ 05 — GitHub Intelligence
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Polyte&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyte&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Polyte&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=6A5ACD&currStreakLabel=00D4FF" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=Polyte&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B61FF&currStreakLabel=00D4FF" />
 </p>
 
----
-
-## 📈 Contribution Activity
+### Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Polyte&bg_color=0D1117&color=00D4FF&line=6A5ACD&point=FFFFFF&area=true&hide_border=true&custom_title=POLYTE%20CONTRIBUTION%20ACTIVITY" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Polyte&bg_color=0D1117&color=00D4FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY" width="100%" />
 </p>
 
----
-
-## 🐍 Watch My Contributions Come Alive
+### Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polyte/Polyte/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Polyte/Polyte/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Polyte/Polyte/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Polyte/Polyte/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
 ---
 
-## 💡 Engineering Philosophy
+## ◈ 06 — Currently Exploring
 
-<p align="center">
-  <i>"Great software isn't just about writing code. It's about solving problems, creating opportunities, and building things that make a difference."</i>
-</p>
-
-I believe in clean architecture, continuous improvement, engineering excellence, collaboration and building technology that solves real-world challenges.
+```text
+[01] Artificial Intelligence & AI Agents
+[02] Advanced .NET & Distributed Systems
+[03] Cloud-Native Architecture
+[04] Intelligent Automation
+[05] Modern Application Security
+[06] Scalable SaaS Platforms
+[07] DevOps & Infrastructure Automation
+```
 
 ---
 
-## 🤝 Connect With Me
+## ◈ 07 — Engineering Principles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLEAN_CODE-00D4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SCALABLE_SYSTEMS-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-00C896?style=flat-square" />
+  <img src="https://img.shields.io/badge/SECURITY_FIRST-FF8C42?style=flat-square" />
+</p>
+
+> "Great software is not measured by how much code is written, but by how effectively it solves problems, empowers people and creates lasting value."
+
+I believe in engineering with purpose: thoughtful architecture, clean implementation, secure systems, continuous improvement and measurable impact.
+
+---
+
+## ◈ 08 — Connect & Collaborate
 
 <p align="center">
   <a href="https://github.com/Polyte">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  ⭐ Explore my repositories, follow my journey and let's build something extraordinary.
+  Interested in software engineering, AI, enterprise architecture or building something innovative?
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0078D4,100:00D4FF&height=150&section=footer&animation=twinkling" width="100%" />
+  <b>Let's turn ambitious ideas into working technology.</b>
 </p>
 
 <p align="center">
-  <sub>Designed with 💙 by Polyte | Engineering the Future, One Line at a Time.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0078D4,100:7B2FF7&height=170&section=footer&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
+  <b>POLYTE</b> · ENGINEERING THE FUTURE, ONE LINE AT A TIME.
 </p>
